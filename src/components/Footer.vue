@@ -8,7 +8,7 @@
             <div class="footer-container">
                 <div class="footer-left">
                     <h3>Contact Us</h3>
-                    <p>Email: sayinzogae@gmail.com</p>
+                    <p>Emergency: 911</p>
                     <p>Phone: +250 780 545 732</p>
                 </div>
                 <div class="footer-right">

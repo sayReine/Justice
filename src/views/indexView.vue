@@ -6,8 +6,8 @@
     <section class="container">
         <div class="background-image"></div>
         <div class="words">
-          <h1>CrimeWatchHub</h1>
-        <p>At CrimeWatchHub, we are dedicated to empowering individuals to report crimes and
+          <h1>Crime Watch Hub</h1>
+        <p>At Crime Watch Hub, we are dedicated to empowering individuals to report crimes and
              contribute to safer communities. Our platform provides a secure and confidential
               way for you to document incidents and share crucial information with law enforcement
              to report crimes and contribute to safer communities. Our platform
@@ -50,7 +50,7 @@
         </div>
         <div class="workwords">
             <ol type="I">
-                <li> <span>Record:</span> Start by documenting the details of the crime you've witnessed or experienced. Include relevant information such as location, time, descriptions of individuals involved, and any supporting evidence like photos or videos.</li>
+                <li> <span>Record:</span> First documenting the details of the crime you've witnessed or experienced. Include relevant information such as location, time, descriptions of individuals involved, and any supporting evidence like photos or videos.</li>
                 <li><span>Submit:</span>  Once your report is complete, submit it through our secure platform. You can choose to remain anonymous if you prefer.</li>
                 <li><span>Action:</span>  Our team ensures that your report reaches the appropriate law enforcement agencies. They will take the necessary steps to investigate and address the incident.</li>
                 <li><span>Track Progress:</span>  Stay informed about the progress of your report and any updates from law enforcement through our platform.</li>

@@ -10,13 +10,13 @@ import  Register from '../views/Register.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
+    // {
+    //   path: '/',
+    //   name:  'login',
+    //   component: Home
+    // },
     {
       path: '/',
-      name:  'login',
-      component: Home
-    },
-    {
-      path: '/home',
       name: 'home',
       component: indexView,
       meta: {
