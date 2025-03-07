@@ -8,7 +8,7 @@
                 </label>
                     <input type="checkbox" name=" check" id="check">
                 <ul>
-                    <li><router-link class="link" to="/home">Home</router-link></li>
+                    <li><router-link class="link" to="/">Home</router-link></li>
                     <li><router-link class="link" to="/about">About us</router-link></li>
                     <li><router-link class="link" to="/team">FAQs</router-link></li>
                     <li><router-link class="link" to="/report">Report a crime</router-link></li>
